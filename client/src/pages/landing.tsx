@@ -71,7 +71,7 @@ export default function LandingPage() {
             Something extraordinary is in the works at Axis Labs.
           </p>
 
-          <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-3 max-w-md">
+          {/* <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-3 max-w-md">
             <div className="relative flex-1">
               <input
                 type="email"
@@ -101,7 +101,7 @@ export default function LandingPage() {
                 </>
               )}
             </button>
-          </form>
+          </form> */}
 
           <div className="mt-12 flex items-center gap-8 text-muted-foreground/50 grayscale hover:grayscale-0 transition-all duration-500 opacity-60">
              {/* Tech badges or similar placeholder logos could go here */}

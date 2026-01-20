@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { useState } from "react";
 import { ArrowRight, Check } from "lucide-react";
-import heroImage from "@assets/generated_images/3d_clay_render_of_3_engineers_building_digital_ai_interface.png";
+import heroImage from "@assets/Gemini_Generated_Image_nr0s97nr0s97nr0s_1768938358986.png";
 import logoImage from "@assets/axis_labs_logo_1768937979291.png";
 
 export default function LandingPage() {

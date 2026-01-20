@@ -40,7 +40,7 @@ export default function LandingPage() {
           transition={{ duration: 0.5, delay: 0.1 }}
           className="hidden md:block"
         >
-          <a href="mailto:hello@axislabs.com" className="text-sm font-medium text-muted-foreground hover:text-primary transition-colors">
+          <a href="mailto:hello@axislabs.co.uk" className="text-sm font-medium text-muted-foreground hover:text-primary transition-colors">
             Contact Us
           </a>
         </motion.div>
